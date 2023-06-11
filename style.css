@@ -1,0 +1,13 @@
+#box{
+    background-color: blue;
+}
+p{
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    font-weight: bolder;
+    text-decoration: cornflowerblue;
+    text-align: center;
+    text-decoration: underline;
+}
